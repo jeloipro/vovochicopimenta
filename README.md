@@ -1,2 +1,2 @@
-## 👌 Batida Perfeita
-- Blog da Batida Perfeita
+## 👌 VOVÔ CHICO PIMENTA
+- Blog do Vovô Chico Pimenta
