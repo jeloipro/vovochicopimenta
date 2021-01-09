@@ -9,6 +9,7 @@ exports.components = {
   "component---src-templates-blog-list-js": () => import("./../../../src/templates/blog-list.js" /* webpackChunkName: "component---src-templates-blog-list-js" */),
   "component---src-templates-blog-post-js": () => import("./../../../src/templates/blog-post.js" /* webpackChunkName: "component---src-templates-blog-post-js" */),
   "component---src-templates-contact-page-js": () => import("./../../../src/templates/contact-page.js" /* webpackChunkName: "component---src-templates-contact-page-js" */),
-  "component---src-templates-index-page-js": () => import("./../../../src/templates/index-page.js" /* webpackChunkName: "component---src-templates-index-page-js" */)
+  "component---src-templates-index-page-js": () => import("./../../../src/templates/index-page.js" /* webpackChunkName: "component---src-templates-index-page-js" */),
+  "component---src-templates-youtube-js": () => import("./../../../src/templates/youtube.js" /* webpackChunkName: "component---src-templates-youtube-js" */)
 }
 

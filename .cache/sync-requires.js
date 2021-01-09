@@ -12,6 +12,7 @@ exports.components = {
   "component---src-templates-blog-list-js": hot(preferDefault(require("/home/thor/Development/gatsby/vovochicopimenta/src/templates/blog-list.js"))),
   "component---src-templates-blog-post-js": hot(preferDefault(require("/home/thor/Development/gatsby/vovochicopimenta/src/templates/blog-post.js"))),
   "component---src-templates-contact-page-js": hot(preferDefault(require("/home/thor/Development/gatsby/vovochicopimenta/src/templates/contact-page.js"))),
-  "component---src-templates-index-page-js": hot(preferDefault(require("/home/thor/Development/gatsby/vovochicopimenta/src/templates/index-page.js")))
+  "component---src-templates-index-page-js": hot(preferDefault(require("/home/thor/Development/gatsby/vovochicopimenta/src/templates/index-page.js"))),
+  "component---src-templates-youtube-js": hot(preferDefault(require("/home/thor/Development/gatsby/vovochicopimenta/src/templates/youtube.js")))
 }
 
