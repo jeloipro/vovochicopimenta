@@ -1,0 +1,6 @@
+# Redireciona o que o navegador solicita para o que servimos
+/cursodeatabaque/* https://go.hotmart.com/F45176304M/:splat 200
+/terapiainterativa/* https://go.hotmart.com/M45176163U:splat 200
+/instagram/* https://www.instagram.com/vovochicopimenta:splat 200
+
+/youtube1/* https://www.youtube.com/:splat 301!
