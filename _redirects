@@ -1,8 +1,2 @@
-# Redirects from what the browser requests to what we serve
-/cursodeatabaque/* https://go.hotmart.com/F45176304M/:splat 200
-/terapiainterativa/* https://go.hotmart.com/M45176163U:splat 200
-/instagram/* https://www.instagram.com/vovochicopimenta:splat 200
-/insta/* https://www.vovochicopimenta.cyou/blog:splat 200
-/insta1 https://www.vovochicopimenta.cyou/blog
-/youtube1 https://www.petsofnetlify.com
-/blog /post
+
+/google https://www.google.com/ 301!
