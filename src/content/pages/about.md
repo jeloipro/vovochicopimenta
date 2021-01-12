@@ -15,17 +15,11 @@ title: Sobre o Vovô Chico Pimenta
 
 Click on the @icn-camera icon to take a screen shot.
 
-## 😉 Redes Socias
-####Inscreva-se no Canal do Youtube 
-[![](/assets/1-canal-youtube.png)](https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1)
+## 😉 Cursos
+### Curso de Atabaque - As Batidas do Coração
+<a class="icon -center" href="https://www.vovochicopimenta.cyou/cursodeatabaque" target="_blank" rel="noopener noreferrer"><img src="/assets/1-atabaque.jpg" width="320" height="82" /></a> 
 
-####Fale Conosco no Telegram
-[![](/assets/1-telegram.png)](https://bit.ly/canal-telegram-vcp)
-
-####Curso de Atabaque - As Batidas do Coração
-[![](/assets/1-atabaque.jpg)](https://go.hotmart.com/F45176304M)
-
-####Curso de Formação em Terapia Interativa
-[![](/assets/1-terapia_integrativa.jpg)](https://go.hotmart.com/M45176163U)
+### Curso de Formação em Terapia Interativa
+<a class="icon -center" href="https://www.vovochicopimenta.cyou/terapiainterativa" target="_blank" rel="noopener noreferrer"><img src="/assets/1-terapia_integrativa.jpg" width="320" height="82" /></a> 
 
 

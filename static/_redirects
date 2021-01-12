@@ -1,18 +1,8 @@
-<<<<<<< HEAD
 # Redirects from what the browser requests to what we serve
-/cursodeatabaque/*    https://go.hotmart.com/F45176304M/:splat 200
+/cursodeatabaque/*    https://go.hotmart.com/F45176304M:splat 200
 /terapiainterativa/*  https://go.hotmart.com/M45176163U:splat 200
-/faca-sua-doacao/*    https://www.paypal.com/donate?hosted_button_id=4CSKE44FXNK3J/ splat 301!
-# Rede Social
+/faca-sua-doacao/*    https://www.paypal.com/donate?hosted_button_id=4CSKE44FXNK3J:splat 200
 /instagram/*          https://www.instagram.com/vovochicopimenta:splat 200
-/youtube/*           https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1/ splat 301!
-/facebook/*           https://web.facebook.com/vovochicopimenta:splat 301
+/youtube/*            https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1:splat 200
+/facebook/*           https://www.facebook.com/vovochicopimenta:splat 200
 /telegram/*           https://t.me/canalvovochicopimenta:splat 200
-=======
-# Redireciona o que o navegador solicita para o que servimos
-/cursodeatabaque/* https://go.hotmart.com/F45176304M/:splat 200
-/terapiainterativa/* https://go.hotmart.com/M45176163U:splat 200
-/instagram/* https://www.instagram.com/vovochicopimenta:splat 200
-
-/youtube1/* https://www.youtube.com/:splat 301!
->>>>>>> d4e0a331b252d37dc877d9bb96570544a8ff88e6
