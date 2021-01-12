@@ -1,0 +1,9 @@
+# Redirects from what the browser requests to what we serve
+/cursodeatabaque/*    https://go.hotmart.com/F45176304M/:splat 200
+/terapiainterativa/*  https://go.hotmart.com/M45176163U:splat 200
+/faca-sua-doacao/*    https://www.paypal.com/donate?hosted_button_id=4CSKE44FXNK3J/ splat 301!
+# Rede Social
+/instagram/*          https://www.instagram.com/vovochicopimenta:splat 200
+/youtube/*           https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1/ splat 301!
+/facebook/*           https://web.facebook.com/vovochicopimenta:splat 301
+/telegram/*           https://t.me/canalvovochicopimenta:splat 200

@@ -56,11 +56,10 @@
     "node-sass": "^4.14.1",
     "prismjs": "^1.20.0",
     "react": "^16.12.0",
+    "react-custom-share": "^0.4.8",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.0.0",
     "react-icons": "^3.10.0",
-    "styled-components": "^5.2.1",
-    "styled-icons": "^10.24.0",
     "theme-ui": "^0.3.1"
   },
   "devDependencies": {

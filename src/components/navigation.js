@@ -15,7 +15,7 @@ const MenuItems = [
     title: "Sobre"
   },
   {
-    path: "/youtube",
+    path: "https://vovochicopimenta.cyou/youtube",
     title: "Youtube"
   },
   {

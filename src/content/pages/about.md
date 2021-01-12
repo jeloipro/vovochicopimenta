@@ -13,6 +13,8 @@ title: Sobre o Vovô Chico Pimenta
 
 👍 **Compartilhe** os vídeos e artigos em suas redes sociais (*Facebook, Whatsapp, Telegram, Twitter, etc.*)
 
+Click on the @icn-camera icon to take a screen shot.
+
 ## 😉 Redes Socias
 ####Inscreva-se no Canal do Youtube 
 [![](/assets/1-canal-youtube.png)](https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1)
