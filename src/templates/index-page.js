@@ -79,7 +79,7 @@ const HomePage = ({ data }) => {
             <li><a class="icon -center" href="https://www.vovochicopimenta.cyou/youtube" target="_blank" rel="noopener noreferrer"><FaYoutube size={30} style={{ fill: '#c40621' }}/></a>     </li>
             <li><a class="icon -center" href="https://www.vovochicopimenta.cyou/facebook" target="_blank" rel="noopener noreferrer"><FaFacebook size={30} style={{ fill: '#c40621' }}/></a>     </li>
             <li><a class="icon -center" href="https://www.vovochicopimenta.cyou/telegram" target="_blank" rel="noopener noreferrer"><FaTelegram size={30} style={{ fill: '#c40621' }}/></a>     </li>
-            <li><a class="icon -center" href="https://www.vovochicopimenta.cyou/faca-sua-doacao" target="_blank" rel="noopener noreferrer"><FaCcPaypal size={30} style={{ fill: '#c40621' }}/></a>     </li>
+            <li><a class="icon -center" href="https://www.vovochicopimenta.cyou/facasuadoacao" target="_blank" rel="noopener noreferrer"><FaCcPaypal size={30} style={{ fill: '#c40621' }}/></a>     </li>
           </ul> 
         </div>
         <div>
