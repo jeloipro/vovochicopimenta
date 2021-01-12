@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Redirects from what the browser requests to what we serve
 /cursodeatabaque/*    https://go.hotmart.com/F45176304M/:splat 200
 /terapiainterativa/*  https://go.hotmart.com/M45176163U:splat 200
@@ -7,3 +8,11 @@
 /youtube/*           https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1/ splat 301!
 /facebook/*           https://web.facebook.com/vovochicopimenta:splat 301
 /telegram/*           https://t.me/canalvovochicopimenta:splat 200
+=======
+# Redireciona o que o navegador solicita para o que servimos
+/cursodeatabaque/* https://go.hotmart.com/F45176304M/:splat 200
+/terapiainterativa/* https://go.hotmart.com/M45176163U:splat 200
+/instagram/* https://www.instagram.com/vovochicopimenta:splat 200
+
+/youtube1/* https://www.youtube.com/:splat 301!
+>>>>>>> d4e0a331b252d37dc877d9bb96570544a8ff88e6

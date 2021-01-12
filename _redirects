@@ -1,0 +1,4 @@
+# Redirects from what the browser requests to what we serve
+/cursodeatabaque/* https://go.hotmart.com/F45176304M/:splat 200
+/terapiainterativa/* https://go.hotmart.com/M45176163U:splat 200
+/instagram/* https://www.instagram.com/vovochicopimenta:splat 200
