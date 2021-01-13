@@ -39,21 +39,9 @@ https://youtu.be/bK22chO8mLU
 👉 Cantigas de Orixás
 ▶ https://www.youtube.com/watch?v=bWWEc6N-ONY&list=PL4hRMyhBiogP0vd69rkDQCLPzmcLZ8E_M
 
-🏆 MEUS MELHORES VÍDEOS ⏬⏬:
-
-👉 5 Tops Pontos de Abertura de Umbanda e Fechamento, Todas as Casas Cantam
-https://www.youtube.com/watch?v=bWWEc6N-ONY
-
-👉 Ponto de Oxum Umbanda: Os 7 Melhores com Qualidade Acima da Média
-https://www.youtube.com/watch?v=9Ac0l2IouxU
-
-👉 Mais Cantado Ponto de Ogum Xoroquê, é #TOP1
-https://www.youtube.com/watch?v=VutH1sjyKcU
-
-👉 Top 3 Pontos de Oxossi na Umbanda, Cantigas Conhecidas! #top3
-https://www.youtube.com/watch?v=hKraaKg0w4E
-
 **🔴 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas.**
+
+<div class="fb-share-button" data-href="https://www.vovochicopimenta.cyou/" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.vovochicopimenta.cyou%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
 
 >🙏 Este canal é sobre a Umbanda, divulgação de Cantigas, Incorporação, Mediunidade, Religião, Caboclos, Pretos velhos, Exu, Pomba gira, Defumação, tudo relacionado nossa religião e  e seus mistérios.
 A ideia de criar um canal dedicado a sabedoria do seu preto velho (Vovô Chico Pimenta), foi para Arrecadação de Fundos para a Construção da Sede Própria do "Instituto Cultural Vovô Chico Pimenta", tendo a missão de levar a CARIDADE, FÉ, AMOR e AÇÕES SOCIAIS.
