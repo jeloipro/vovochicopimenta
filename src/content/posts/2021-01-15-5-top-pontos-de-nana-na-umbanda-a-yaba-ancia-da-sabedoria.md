@@ -41,12 +41,6 @@ https://youtu.be/bK22chO8mLU
 
 **🔴 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas.**
 
-<div class="fb-share-button" data-href="https://www.vovochicopimenta.cyou/" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.vovochicopimenta.cyou%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
-
-------------------------------------------------------------------------------------------
-
-<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.vovochicopimenta.cyou%2F&layout=button_count&size=large&appId=362929988259676&width=133&height=28" width="133" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 >🙏 Este canal é sobre a Umbanda, divulgação de Cantigas, Incorporação, Mediunidade, Religião, Caboclos, Pretos velhos, Exu, Pomba gira, Defumação, tudo relacionado nossa religião e  e seus mistérios.
 A ideia de criar um canal dedicado a sabedoria do seu preto velho (Vovô Chico Pimenta), foi para Arrecadação de Fundos para a Construção da Sede Própria do "Instituto Cultural Vovô Chico Pimenta", tendo a missão de levar a CARIDADE, FÉ, AMOR e AÇÕES SOCIAIS.
 
