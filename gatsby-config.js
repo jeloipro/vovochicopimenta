@@ -139,88 +139,90 @@ module.exports = {
       },
     },
   // Meu Plugins 
-    {
-      resolve: `gatsby-plugin-feed`,
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                title
-                description
-                siteUrl
-                site_url: siteUrl
-              }
+  {
+    resolve: `gatsby-plugin-feed`,
+    options: {
+      query: `
+        {
+          site {
+            siteMetadata {
+              title
+              description
+              siteUrl
+              site_url: siteUrl
             }
           }
-        `,
-        feeds: [
-          {
-            serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map((edge) => {
-                return Object.assign({}, edge.node.frontmatter, {
-                  description: edge.node.excerpt,
-                  date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  custom_elements: [{ 'content:encoded': edge.node.html }],
-                });
+        }
+      `,
+      feeds: [
+        {
+          serialize: ({ query: { site, allMarkdownRemark } }) => {
+            return allMarkdownRemark.edges.map((edge) => {
+              return Object.assign({}, edge.node.frontmatter, {
+                description: edge.node.excerpt,
+                date: edge.node.frontmatter.date,
+                url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                custom_elements: [{ 'content:encoded': edge.node.html }],
               });
-            },
-            query: `
-              {
-                allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
-                  edges {
-                    node {
-                      excerpt
-                      html
-                      fields { slug }
-                      frontmatter {
-                        title
-                        date
-                      }
-                    }
-                  }
-                }
-              }
-            `,
-            query: `
-              {
-                allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
-                  edges {
-                    node {
-                      fields {
-                        slug
-                      }
-                      frontmatter {
-                        date
-                        description
-                        title
-                      }
-                      excerpt
-                      html
-                    }
-                  }
-                }
-              }
-            `,
-            output: '/rss.xml',
-            title: 'Vovo Chico Pimenta',
-            // Configurações opcionais
-            // Esse cara serve para você colocar onde você quer que o feed se alimente. Por exemplo, você tem um site pessoal e tem um blog dentro dele com a url www.meusiteboladao.com/blog/
-            // Aí você vai colocar o ^/blog/ nessa chave
-            match: '^/vovochicopimenta.cyou/',
-            // Mais um opcional que eu acho útil caso você use o Feedburner, como eu.
-            // É algo do tempo do ronca, eu sei, mas vai que tem gente que ainda o utiliza, então vale deixar já configurado
-            link: 'https://feeds.feedburner.com/vovochicopimenta.cyou',
+            });
           },
-        ],
-      },
+          query: `
+            {
+              allMarkdownRemark(
+                sort: { order: DESC, fields: [frontmatter___date] },
+              ) {
+                edges {
+                  node {
+                    excerpt
+                    html
+                    fields { slug }
+                    frontmatter {
+                      title
+                      date
+                    }
+                  }
+                }
+              }
+            }
+          `,
+          query: `
+            {
+              allMarkdownRemark(
+                sort: { order: DESC, fields: [frontmatter___date] },
+              ) {
+                edges {
+                  node {
+                    fields {
+                      slug
+                    }
+                    frontmatter {
+                      date
+                      description
+                      title
+                    }
+                    excerpt
+                    html
+                  }
+                }
+              }
+            }
+          `,
+          output: '/rss.xml',
+          title: 'Vovo Chico Pimenta',
+          // Configurações opcionais
+          // Esse cara serve para você colocar onde você quer que o feed se alimente. Por exemplo, você tem um site pessoal e tem um blog dentro dele com a url www.meusiteboladao.com/blog/
+          // Aí você vai colocar o ^/blog/ nessa chave
+          match: '^/vovochicopimenta.cyou/',
+          // Mais um opcional que eu acho útil caso você use o Feedburner, como eu.
+          // É algo do tempo do ronca, eu sei, mas vai que tem gente que ainda o utiliza, então vale deixar já configurado
+          link: 'https://feeds.feedburner.com/vovochicopimenta.cyou',
+        },
+      ],
     },
+  },
+    
+    
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
@@ -230,6 +232,7 @@ module.exports = {
       defaultDataLayer: { platform: "gatsby" },
       },
     },
+
     { 
       resolve: "gatsby-plugin-preconnect",
       options: {

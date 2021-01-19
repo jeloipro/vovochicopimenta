@@ -167,9 +167,9 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-feed/gatsby-ssr */ "./node_modules/gatsby-plugin-feed/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "query": "\n          {\n            site {\n              siteMetadata {\n                title\n                description\n                siteUrl\n                site_url: siteUrl\n              }\n            }\n          }\n        ",
+    "query": "\n        {\n          site {\n            siteMetadata {\n              title\n              description\n              siteUrl\n              site_url: siteUrl\n            }\n          }\n        }\n      ",
     "feeds": [{
-      "query": "\n              {\n                allMarkdownRemark(\n                  sort: { order: DESC, fields: [frontmatter___date] },\n                ) {\n                  edges {\n                    node {\n                      fields {\n                        slug\n                      }\n                      frontmatter {\n                        date\n                        description\n                        title\n                      }\n                      excerpt\n                      html\n                    }\n                  }\n                }\n              }\n            ",
+      "query": "\n            {\n              allMarkdownRemark(\n                sort: { order: DESC, fields: [frontmatter___date] },\n              ) {\n                edges {\n                  node {\n                    fields {\n                      slug\n                    }\n                    frontmatter {\n                      date\n                      description\n                      title\n                    }\n                    excerpt\n                    html\n                  }\n                }\n              }\n            }\n          ",
       "output": "/rss.xml",
       "title": "Vovo Chico Pimenta",
       "match": "^/vovochicopimenta.cyou/",

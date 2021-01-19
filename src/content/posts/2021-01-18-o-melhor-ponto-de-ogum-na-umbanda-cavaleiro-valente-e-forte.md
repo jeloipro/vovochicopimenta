@@ -25,9 +25,14 @@ Neste vídeo vou apresentar Pontos de Ogum.
 https://linktr.ee/vovochicopimenta
 
 ❤ BLOG: ➡ https://vovochicopimenta.cyou
-👉 SE INSCREVA NO CANAL: https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1
 
-#umbanda #pontosdeumbanda #ogum
+👉 SE INSCREVA NO CANAL: https://vovochicopimenta.cyou/youtube
+
+🔴 Siga nossas Redes Sociais
+
+[<img src="https://www.flaticon.com/svg/vstatic/svg/87/87390.svg?token=exp=1611084090~hmac=540d05434cd582367e8ea08a524e3214" target="_blank" rel="noopener noreferrer" width="50px">](https://vovochicopimenta.cyou/instagram)     [<img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051309.svg?token=exp=1611084319~hmac=1a424ac0c264ef5d1f7b0f2e582cde54" target="_blank" rel="noopener noreferrer" width="50px">](https://vovochicopimenta.cyou/facebook)
+
+👉 #umbanda #pontosdeumbanda #ogum
 
 **🔴 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas.**
 
