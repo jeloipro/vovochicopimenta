@@ -7,6 +7,8 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import SEO from '../components/seo';
 
+import { RiUserSettingsLine } from "react-icons/ri";
+
 const styles = {
   'article blockquote': {
     'background-color': 'cardBg'
@@ -83,6 +85,7 @@ const Post = ({ data, pageContext }) => {
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
+            <p>Author: Vovo Chico Pimenta<span><RiUserSettingsLine /></span></p>
           </section>
           {Image ? (
             <Img 
