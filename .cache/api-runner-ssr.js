@@ -24,7 +24,7 @@ var plugins = [{
       options: {"plugins":[],"query":"\n        {\n          site {\n            siteMetadata {\n              title\n              description\n              siteUrl\n              site_url: siteUrl\n            }\n          }\n        }\n      ","feeds":[{"query":"\n            {\n              allMarkdownRemark(\n                sort: { order: DESC, fields: [frontmatter___date] },\n              ) {\n                edges {\n                  node {\n                    fields {\n                      slug\n                    }\n                    frontmatter {\n                      date\n                      description\n                      title\n                    }\n                    excerpt\n                    html\n                  }\n                }\n              }\n            }\n          ","output":"/rss.xml","title":"Vovo Chico Pimenta","match":"^/vovochicopimenta.cyou/","link":"https://feeds.feedburner.com/vovochicopimenta.cyou"}]},
     },{
       plugin: require('/home/thor/Development/gatsby/vovochicopimenta/node_modules/gatsby-plugin-google-tagmanager/gatsby-ssr'),
-      options: {"plugins":[],"id":"XXX-XXXXXXX","includeInDevelopment":false,"defaultDataLayer":{"type":"object","value":{"platform":"gatsby"}},"routeChangeEventName":"gatsby-route-change"},
+      options: {"plugins":[],"id":"GTM-N44LZW5","includeInDevelopment":false,"defaultDataLayer":{"type":"object","value":{"platform":"gatsby"}},"routeChangeEventName":"gatsby-route-change"},
     },{
       plugin: require('/home/thor/Development/gatsby/vovochicopimenta/node_modules/gatsby-plugin-preconnect/gatsby-ssr'),
       options: {"plugins":[],"domains":["https://www.google-analytics.com","https://www.googletagmanager.com"]},

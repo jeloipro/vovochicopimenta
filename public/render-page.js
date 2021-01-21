@@ -180,7 +180,7 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-google-tagmanager/gatsby-ssr */ "./node_modules/gatsby-plugin-google-tagmanager/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "id": "XXX-XXXXXXX",
+    "id": "GTM-N44LZW5",
     "includeInDevelopment": false,
     "defaultDataLayer": {
       "type": "object",
