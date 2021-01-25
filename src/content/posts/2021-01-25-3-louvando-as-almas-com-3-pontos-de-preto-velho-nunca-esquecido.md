@@ -18,6 +18,8 @@ featuredImage: /assets/2021-01-25-3-louvando-as-almas-com-3-pontos-de-preto-velh
 |`audio: /assets/audio/2021-01-25-3-louvando-as-almas-com-3-pontos-de-preto-velho-nunca-esquecido.mp3`|
 🎤: Pai Jefferson de Oxalá
 
+🎧OUÇA NO SPOTIFY: https://vovochicopimenta.cyou/spotify
+
 Neste vídeo vou apresentar 3 Pontos de Preto Velho</br>
 🔽🔽 Outros Links Importantes 🔽🔽
 
