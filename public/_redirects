@@ -1,10 +1,12 @@
-# Redirects from what the browser requests to what we serve
+# Redirects com links camuflado
 /cursodeatabaque/*    https://go.hotmart.com/F45176304M:splat 200
 /terapiainterativa/*  https://go.hotmart.com/M45176163U:splat 200
-/facasuadoacao/*      https://www.paypal.com/donate?hosted_button_id=4CSKE44FXNK3J:splat 200
-/instagram/*          https://www.instagram.com/vovochicopimenta:splat 200
-/youtube/*            https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1:splat 200
-/facebook/*           https://www.facebook.com/vovochicopimenta:splat 200
-/telegram/*           https://t.me/canalvovochicopimenta:splat 200
-/grpchicopimenta/*    https://t.me/joinchat/VB7yM5RhhJIiVpe1:splat 200
+# Redirects somente para página
+/instagram/*          https://www.instagram.com/vovochicopimenta
+/facebook/*           https://www.facebook.com/vovochicopimenta
+/telegram/*           https://t.me/canalvovochicopimenta
+/grpchicopimenta/*    https://t.me/joinchat/VB7yM5RhhJIiVpe1
 /podcast/*            https://anchor.fm/vovochicopimenta
+/spotify/*            https://open.spotify.com/show/3JBuhs2tSzIZxT5YDKkcRP
+/facasuadoacao/*      https://www.paypal.com/donate?hosted_button_id=4CSKE44FXNK3J
+/youtube/*            https://youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1

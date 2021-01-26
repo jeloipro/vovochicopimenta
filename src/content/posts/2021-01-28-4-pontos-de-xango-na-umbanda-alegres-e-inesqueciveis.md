@@ -9,7 +9,7 @@ featuredImage: /assets/2021-01-28-4-pontos-de-xango-na-umbanda-alegres-e-inesque
 **👊 Alegre e Inesquecíveis, 4 Pontos de Xango.**
 
 <!-- #1: Embed through web URL -->
-`video: `
+`video: https://youtu.be/zZa2Mx1R6RQ`
 
 🎧OUÇA NO SPOTIFY: https://vovochicopimenta.cyou/spotify
 
