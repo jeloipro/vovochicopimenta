@@ -208,12 +208,12 @@ module.exports = {
               }
             }
           `,
-          output: '/rss.xml',
+          output: '/blog/rss.xml',
           title: 'Vovo Chico Pimenta',
           // Configurações opcionais
           // Esse cara serve para você colocar onde você quer que o feed se alimente. Por exemplo, você tem um site pessoal e tem um blog dentro dele com a url www.meusiteboladao.com/blog/
           // Aí você vai colocar o ^/blog/ nessa chave
-          match: '^/vovochicopimenta.cyou/',
+          match: '^/blog/',
           // Mais um opcional que eu acho útil caso você use o Feedburner, como eu.
           // É algo do tempo do ronca, eu sei, mas vai que tem gente que ainda o utiliza, então vale deixar já configurado
           link: 'https://feeds.feedburner.com/vovochicopimenta.cyou',
@@ -221,8 +221,7 @@ module.exports = {
       ],
     },
   },
-    
-    
+  
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {

@@ -12,7 +12,7 @@ module.exports = [{
       options: {"plugins":[]},
     },{
       plugin: require('../node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
-      options: {"plugins":[],"trackingId":"UA-XXXXXXXXX-X","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
+      options: {"plugins":[],"trackingId":"G-7MLTFM44V4","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
       options: {"plugins":[],"name":"Vovo Chico Pimenta","short_name":"VovoChicoPimenta","start_url":"/","background_color":"#ffffff","theme_color":"#5C2A5B","display":"standalone","icon":"static/assets/stackrole.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"68254aee683f194820a12a1ea45fb8bb"},

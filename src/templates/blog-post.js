@@ -7,7 +7,9 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import SEO from '../components/seo';
 
-import { RiUserSettingsLine } from "react-icons/ri";
+import { GiChiliPepper } from "react-icons/gi";
+import { DiscussionEmbed } from 'disqus-react';
+
 
 const styles = {
   'article blockquote': {
@@ -60,12 +62,19 @@ const Pagination = (props) => (
     </ul>
   </div>
 )
-
 const Post = ({ data, pageContext }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
   const { previous, next } = pageContext
+
+  // Disqs
+  const disqusShortname = "vovo-chico-pimenta";
+  const disqusConfig = {
+    identifier: frontmatter.identifier,
+    title: frontmatter.title,
+  };
+  //
 
   let props = {
     previous,
@@ -85,7 +94,7 @@ const Post = ({ data, pageContext }) => {
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
-            <p>Author: Vovo Chico Pimenta<span><RiUserSettingsLine /></span></p>
+            <p>Author: Vovo Chico Pimenta<span><GiChiliPepper /></span></p>
           </section>
           {Image ? (
             <Img 
@@ -97,17 +106,21 @@ const Post = ({ data, pageContext }) => {
             />
           ) : ""}
         </header>
-        
+
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </article>
+
+      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+      
       {(previous || next) && (
         <Pagination {...props} />
       )}
     </Layout>
   )
+
 }
 
 export default Post
