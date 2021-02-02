@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: Sobre o Vovô Chico Pimenta
 ---
-👍 Seja muito bem vindo ao Blog do Vovô Chico Pimenta, criado para divulgação de Cantigas, Incorporação, Mediunidade, Religião de 🤍Umbanda e seus mistérios.
+👍 Seja muito bem vindo ao Blog do <a href='https://vovochicopimenta.cyou' rel="nofollown noopener noreferrer">Vovô Chico Pimenta</a>, criado para divulgação de Cantigas, Incorporação, Mediunidade, Religião de <a href=' https://www.youtube.com/channel/UCvjsa9RBIztSUkd1JioCjJQ?sub_confirmation=1' rel="nofollown noopener noreferrer" target="_blank">🤍Umbanda</a> e seus mistérios.
 
 ![Logo](/assets/sobre-post-vovo-chico-pimenta.jpg "Logo")
 
@@ -12,8 +12,6 @@ title: Sobre o Vovô Chico Pimenta
 🚨 *Trabalhamos muito para encontrar as melhores cantigas e mais interessantes para você! Esperamos tornar sua vida espiritual melhor através da cantiga compartilhada!*
 
 👍 **Compartilhe** os vídeos e artigos em suas redes sociais (*Facebook, Whatsapp, Telegram, Twitter, etc.*)
-
-Click on the @icn-camera icon to take a screen shot.
 
 ## 😉 Cursos
 ### Curso de Atabaque - As Batidas do Coração

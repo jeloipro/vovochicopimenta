@@ -11,6 +11,8 @@ featuredImage: /assets/2020-12-14-ponto-de-ze-pilintra-eu-sou-malandro-7-pontos-
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/UE-Qy47upv4`
 
+###<a href='https://vovochicopimenta.cyou/spotify' rel="nofollown noopener noreferrer" target="_blank">🎧OUÇA NO SPOTIFY</a>###
+
 ⏬ Free Download da(s) Cantigas(s) / Stream ⏬
 
 |🎧 __Eu bem que disse a voce__|🎧 __Leva fe nesse homem__|
@@ -27,44 +29,35 @@ featuredImage: /assets/2020-12-14-ponto-de-ze-pilintra-eu-sou-malandro-7-pontos-
 
 🔽🔽 Outros Links Importantes 🔽🔽
 
-⏩ CURSO GRÁTIS SOBRE UMBANDA
-https://vovochicopimenta.cyou/curso-umbanda-gratis
+###🎁 <a href='https://linktr.ee/vovochicopimenta' rel="nofollown noopener noreferrer" target="_blank">MATERIAL GRATUÍTO</a>###
 
-🎁 MATERIAL GRATUÍTO👇:
-https://vovochicopimenta.cyou/descubra-a-umbanda/
+###❤ <a href='https://vovochicopimenta.cyou/blog' rel="nofollown noopener noreferrer">BLOG</a>###
 
-❤ BLOG: ➡ https://vovochicopimenta.cyou
-👉 SE INSCREVA NO CANAL: https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1
+###👉 <a href='https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1' rel="nofollown noopener noreferrer" target="_blank">SE INSCREVA NO CANAL</a>###
 
-👉 #umbanda #pontosdeumbanda #zepilintra
+👉 **#umbanda #pontosdeumbanda #zepilintra**
 
-👉 Link do Vídeo: 
-https://youtu.be/UE-Qy47upv4
+👉 <a href='https://youtu.be/UE-Qy47upv4' rel="nofollown noopener noreferrer" target="_blank">Link do Vídeo</a>
 
-👉 Cantigas de Malandros(as)
-▶ https://www.youtube.com/playlist?list=PL4hRMyhBiogOx_D2KGXWYBVv_P0Z3ucbF
+▶ <a href='https://www.youtube.com/playlist?list=PL4hRMyhBiogOx_D2KGXWYBVv_P0Z3ucbF' rel="nofollown noopener noreferrer" target="_blank">Playlist - Cantigas de Malandros(as)</a>
 
-🏆 MEUS MELHORES VÍDEOS ⏬⏬:
+**🏆 MEUS MELHORES VÍDEOS ⏬⏬**
 
-👉 {Com Letra} 2 Cantigas da Malandragem - Ponto de Malandro Guardados no Baú
-https://www.youtube.com/watch?v=d2ULJkuX4Ao
+👉 <a href='https://www.youtube.com/watch?v=d2ULJkuX4Ao' rel="nofollown noopener noreferrer" target="_blank">{Com Letra} 2 Cantigas da Malandragem - Ponto de Malandro Guardados no Baú</a>
 
-👉 TOP 6 Cantigas de Seu Zé Pilintra na Umbanda - Simplesmente Sensacional #top6
-https://www.youtube.com/watch?v=f4laXXl56mA&t=46s
+👉 <a href='https://www.youtube.com/watch?v=f4laXXl56mA&t=46s' rel="nofollown noopener noreferrer" target="_blank">TOP 6 Cantigas de Seu Zé Pilintra na Umbanda - Simplesmente Sensacional #top6</a>
 
-👉 {Com Letra} Pombo Gira Maria Navalha - Eu falei pra nao mexer
-https://www.youtube.com/watch?v=WIXm-dTqq_Y
+👉 <a href='https://www.youtube.com/watch?v=WIXm-dTqq_Y' rel="nofollown noopener noreferrer" target="_blank">{Com Letra} Pombo Gira Maria Navalha - Eu falei pra nao mexer</a>
 
-👉 {Com Letra} Malandro Miguel - Seu Miguelzinho da camisa preta
-https://www.youtube.com/watch?v=9SA-96qEQhw&t=72s
+👉 <a href='https://www.youtube.com/watch?v=9SA-96qEQhw&t=72s' rel="nofollown noopener noreferrer" target="_blank">{Com Letra} Malandro Miguel - Seu Miguelzinho da camisa preta</a>
 
 **🔴 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas.**
 
 >🙏 Este canal é sobre a Umbanda, divulgação de Cantigas, Incorporação, Mediunidade, Religião, Caboclos, Pretos velhos, Exu, Pomba gira, Defumação, tudo relacionado nossa religião e  e seus mistérios.
-A ideia de criar um canal dedicado a sabedoria do seu preto velho (Vovô Chico Pimenta), foi para Arrecadação de Fundos para a Construção da Sede Própria do "Instituto Cultural Vovô Chico Pimenta", tendo a missão de levar a CARIDADE, FÉ, AMOR e AÇÕES SOCIAIS.
+A ideia de criar um canal dedicado a sabedoria do seu preto velho <a href='https://vovochicopimenta.cyou' rel="nofollown noopener noreferrer">(Vovô Chico Pimenta)</a>, foi para Arrecadação de Fundos para a Construção da Sede Própria do <a href='https://vovochicopimenta.cyou' rel="nofollown noopener noreferrer">"Instituto Cultural Vovô Chico Pimenta"</a>, tendo a missão de levar a CARIDADE, FÉ, AMOR e AÇÕES SOCIAIS.
 
->Por Jefferson de Oxalá, Sacerdote Responsável, com a mediunidade herdada de sua mãe, atua desde 1993 na Umbanda (Omolokô).
+>Por <a href='https://www.youtube.com/channel/UCvjsa9RBIztSUkd1JioCjJQ?sub_confirmation=1' rel="nofollown noopener noreferrer" target="_blank">Jefferson de Oxalá</a>, Sacerdote Responsável, com a mediunidade herdada de sua mãe, atua desde 1993 na Umbanda <a href='https://pt.wikipedia.org/wiki/Omolok%C3%B4' rel="nofollown noopener noreferrer" target="_blank">(Omolokô)</a> .
 
->Espiritualidade: 💡 Empreenda essa Idéia!
+><a href='https://pt.wikipedia.org/wiki/Espiritualidade' rel="nofollown noopener noreferrer" target="_blank">Espiritualidade</a>: 💡 Empreenda essa Idéia!
 
-💥 Axé para todos vocês!
+💥 <a href='https://pt.wikipedia.org/wiki/Ax%C3%A9' rel="nofollown noopener noreferrer" target="_blank">Axé</a> para todos vocês!

@@ -11,6 +11,8 @@ featuredImage: /assets/2021-01-08-varios-pontos-de-boiadeiro-umbanda-navizala-ze
 <!-- #1: Embed through web URL -->
 `video: https://youtu.be/cNn5-LTdDpU`
 
+###<a href='https://vovochicopimenta.cyou/spotify' rel="nofollown noopener noreferrer" target="_blank">🎧OUÇA NO SPOTIFY</a>###
+
 ⏬ Free Download da(s) Cantigas(s) ⏬
 
 |🎧 __Me chamaram de Mineiro__|🎧 __Nao corte ai Capineiro__|
@@ -25,39 +27,34 @@ featuredImage: /assets/2021-01-08-varios-pontos-de-boiadeiro-umbanda-navizala-ze
 
 🔽🔽 Outros Links Importantes 🔽🔽
 
-🎁 MATERIAL GRATUÍTO👇:
-https://linktr.ee/vovochicopimenta
+###🎁 <a href='https://linktr.ee/vovochicopimenta' rel="nofollown noopener noreferrer" target="_blank">MATERIAL GRATUÍTO</a>###
 
-❤ BLOG: ➡ https://vovochicopimenta.cyou
+###❤ <a href='https://vovochicopimenta.cyou/blog' rel="nofollown noopener noreferrer">BLOG</a>###
 
-👉 SE INSCREVA NO CANAL: https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1
+###👉 <a href='https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1' rel="nofollown noopener noreferrer" target="_blank">SE INSCREVA NO CANAL</a>###
 
-#umbanda #pontosdeumbanda #boiadeiro
+👉 **#umbanda #pontosdeumbanda #boiadeiro**
 
-👉 Link do Vídeo: 
-https://youtu.be/cNn5-LTdDpU
+👉 <a href='https://youtu.be/cNn5-LTdDpU' rel="nofollown noopener noreferrer" target="_blank">Link do Vídeo</a>
 
-👉 Cantigas de Boiadeiro
-▶ https://www.youtube.com/playlist?list=PL4hRMyhBiogM_FVCnsA94xUI4dWkqQxRD
+▶ <a href='https://www.youtube.com/playlist?list=PL4hRMyhBiogM_FVCnsA94xUI4dWkqQxRD' rel="nofollown noopener noreferrer" target="_blank">Playlist - Cantigas de Boiadeiro</a>
 
-🏆 MEUS MELHORES VÍDEOS ⏬⏬:
 
-👉 {Com Letra} Cantiga de Boiadeiro Umbanda - Sou Boiadeiro da Serra
-https://www.youtube.com/watch?v=HsyECMqzcrQ
+**🏆 MEUS MELHORES VÍDEOS ⏬⏬**
 
-👉 {Com Letra} Ponto de Boiadeiro - Oh lua do Gravatá
-https://www.youtube.com/watch?v=nRjnbFFSbpU
+👉 <a href='https://www.youtube.com/watch?v=HsyECMqzcrQ' rel="nofollown noopener noreferrer" target="_blank">{Com Letra} Cantiga de Boiadeiro Umbanda - Sou Boiadeiro da Serra</a>
 
-👉 [COM LETRA] Maravilhosos Pontos de Boiadeiro na Umbanda, 3 cantados com (QUALIDADE ALTA)
-https://www.youtube.com/watch?v=RDJR0cH8DnU
+👉 <a href='https://www.youtube.com/watch?v=nRjnbFFSbpU' rel="nofollown noopener noreferrer" target="_blank">{Com Letra} Ponto de Boiadeiro - Oh lua do Gravatá</a>
+
+👉 <a href='https://www.youtube.com/watch?v=RDJR0cH8DnU' rel="nofollown noopener noreferrer" target="_blank">[COM LETRA] Maravilhosos Pontos de Boiadeiro na Umbanda, 3 cantados com (QUALIDADE ALTA)</a>
 
 **🔴 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas.**
 
 >🙏 Este canal é sobre a Umbanda, divulgação de Cantigas, Incorporação, Mediunidade, Religião, Caboclos, Pretos velhos, Exu, Pomba gira, Defumação, tudo relacionado nossa religião e  e seus mistérios.
-A ideia de criar um canal dedicado a sabedoria do seu preto velho (Vovô Chico Pimenta), foi para Arrecadação de Fundos para a Construção da Sede Própria do "Instituto Cultural Vovô Chico Pimenta", tendo a missão de levar a CARIDADE, FÉ, AMOR e AÇÕES SOCIAIS.
+A ideia de criar um canal dedicado a sabedoria do seu preto velho <a href='https://vovochicopimenta.cyou' rel="nofollown noopener noreferrer">(Vovô Chico Pimenta)</a>, foi para Arrecadação de Fundos para a Construção da Sede Própria do <a href='https://vovochicopimenta.cyou' rel="nofollown noopener noreferrer">"Instituto Cultural Vovô Chico Pimenta"</a>, tendo a missão de levar a CARIDADE, FÉ, AMOR e AÇÕES SOCIAIS.
 
->Por Jefferson de Oxalá, Sacerdote Responsável, com a mediunidade herdada de sua mãe, atua desde 1993 na Umbanda (Omolokô).
+>Por <a href='https://www.youtube.com/channel/UCvjsa9RBIztSUkd1JioCjJQ?sub_confirmation=1' rel="nofollown noopener noreferrer" target="_blank">Jefferson de Oxalá</a>, Sacerdote Responsável, com a mediunidade herdada de sua mãe, atua desde 1993 na Umbanda <a href='https://pt.wikipedia.org/wiki/Omolok%C3%B4' rel="nofollown noopener noreferrer" target="_blank">(Omolokô)</a> .
 
->Espiritualidade: 💡 Empreenda essa Idéia!
+><a href='https://pt.wikipedia.org/wiki/Espiritualidade' rel="nofollown noopener noreferrer" target="_blank">Espiritualidade</a>: 💡 Empreenda essa Idéia!
 
-💥 Axé para todos vocês!
+💥 <a href='https://pt.wikipedia.org/wiki/Ax%C3%A9' rel="nofollown noopener noreferrer" target="_blank">Axé</a> para todos vocês!

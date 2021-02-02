@@ -94,7 +94,7 @@ const Post = ({ data, pageContext }) => {
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
-            <p>Author: Vovo Chico Pimenta<span><GiChiliPepper /></span></p>
+            <p><b><i>Autor: Vovo Chico Pimenta<span><GiChiliPepper /></span></i></b></p>
           </section>
           {Image ? (
             <Img 
