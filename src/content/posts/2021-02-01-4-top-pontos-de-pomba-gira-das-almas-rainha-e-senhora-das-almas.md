@@ -26,7 +26,7 @@ Neste vídeo vou apresentar Cantigas de Pomba Gira das Almas.</br>
 🎁 MATERIAL GRATUÍTO👇:
 https://linktr.ee/vovochicopimenta
 
-❤ BLOG: ➡ https://vovochicopimenta.cyou
+❤ BLOG: ➡ <a href='https://vovochicopimenta.cyou/' rel="nofollown noopener noreferrer">https://vovochicopimenta.cyou</a>
 👉 SE INSCREVA NO CANAL: https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1
 
 👉 #umbanda #pontosdeumbanda #pombagira
