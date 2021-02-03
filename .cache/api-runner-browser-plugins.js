@@ -15,7 +15,7 @@ module.exports = [{
       options: {"plugins":[],"trackingId":"G-7MLTFM44V4","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Vovo Chico Pimenta","short_name":"VovoChicoPimenta","start_url":"/","background_color":"#ffffff","theme_color":"#5C2A5B","display":"standalone","icon":"static/assets/stackrole.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"68254aee683f194820a12a1ea45fb8bb"},
+      options: {"plugins":[],"name":"Vovo Chico Pimenta","short_name":"VovoChicoPimenta","start_url":"/","background_color":"#ffffff","theme_color":"#5C2A5B","display":"standalone","icon":"static/assets/chico-pimenta-favicon2.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"441fd88911bc6cdf6d060decf7c392df"},
     },{
       plugin: require('../node_modules/gatsby-plugin-google-tagmanager/gatsby-browser.js'),
       options: {"plugins":[],"id":"GTM-N44LZW5","includeInDevelopment":false,"defaultDataLayer":{"type":"object","value":{"platform":"gatsby"}},"routeChangeEventName":"gatsby-route-change"},

@@ -155,13 +155,13 @@ var plugins = [{
     "background_color": "#ffffff",
     "theme_color": "#5C2A5B",
     "display": "standalone",
-    "icon": "static/assets/stackrole.png",
+    "icon": "static/assets/chico-pimenta-favicon2.png",
     "legacy": true,
     "theme_color_in_head": true,
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "68254aee683f194820a12a1ea45fb8bb"
+    "cacheDigest": "441fd88911bc6cdf6d060decf7c392df"
   }
 }, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-feed/gatsby-ssr */ "./node_modules/gatsby-plugin-feed/gatsby-ssr.js"),
