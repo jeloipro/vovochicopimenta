@@ -5,7 +5,7 @@ import Logotipo from "../../static/assets/chico-pimenta-avatar_redondo1.png"
 const Logo = (props) => (
   <div className="site-logo">
 
-    <Link to="/"><img src={Logotipo }/></Link>
+    <Link to="/"><img src={Logotipo } alt="Logotipo Vovo Chico Pimenta"/></Link>
     
   </div>
 )
