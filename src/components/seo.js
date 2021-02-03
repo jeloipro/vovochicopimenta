@@ -36,7 +36,7 @@ const SEO = ({ title, description, image, article, keywords, author, robots }) =
       <link rel="alternate" href={seo.url} hreflang="en-us" />
       <link rel="alternate" href={seo.url} hreflang="en" />
       <link rel="alternate" href={seo.url} hreflang="x-default" />
-      <link rel="canonical" href="http://vovochicopimenta.cyou" />
+      <link rel="canonical" href={seo.url} />
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
       <meta name="keywords" content={seo.keywords} />
