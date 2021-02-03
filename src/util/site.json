@@ -2,10 +2,13 @@
   "meta": {
     "title": "Vovo Chico Pimenta",
     "titleTemplate": "%s",
-    "description": "Olá, este blog é sobre a 🤍Umbanda, divulgação de Cantigas, Incorporação, Mediunidade, Religião, Caboclos, Pretos velhos, Exu, Pomba gira, Defumação, tudo relacionado nossa religião e  e seus mistérios. A ideia de criar um canal dedicado a sabedoria do seu preto velho - 👨‍🦳 Vovô Chico Pimenta, foi para Arrecadação de Fundos para a Construção da Sede Própria do |Instituto Cultural Vovô Chico Pimenta|, tendo a missão de levar a CARIDADE, FÉ, AMOR e AÇÕES SOCIAIS. Por Jefferson de Oxalá, Sacerdote Responsável, com a mediunidade herdada de sua mãe, atua desde 1993 na Umbanda -Omolokô. 💓Siga nossas Redes Sociais.",
+    "description": "Blog é sobre Umbanda, divulgação de Cantigas (Pontos Cantados), Orixás, Incorporação, Mediunidade, Religião e muito mais.",
     "siteUrl": "https://vovochicopimenta.cyou/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
+    "keywords": "cantigas,pontos cantados, orixás, incorporação, mediunidade, religião, caboclos, pretos velhos, exú, pomba gira, defumação, boiadeiro, baianos, cigano, marinheiro, iemanja, ogum, xangô, nanã buruque, iansã, oxum, oxalá, obaluaê, omulu, umbanda, umbanda ead, umbanda sagrada, centro de umbanda, terreiro de umbanda, ritual de umbanda, religion umbanda, pontos de umbanda, estude umbanda, gira de umbanda, vovo chico pimenta, tranca ruas, arranca toco, pai jacó, crispiniano, sete encruzilhadas, pomba gira da estrada, as de ouros, ramires",
+    "author": "Jefferson de Oxalá",
+    "robots": "all",
     "twitterUsername": ""
   },
   "ga": "G-7MLTFM44V4"

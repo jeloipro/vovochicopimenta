@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vovochicopimenta.cyou/sitemap.xml
+Host: https://vovochicopimenta.cyou
