@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: Sobre o Vovô Chico Pimenta
 ---
-👍 Seja muito bem vindo ao Blog do <a href='https://vovochicopimenta.cyou' rel="nofollown noopener noreferrer">Vovô Chico Pimenta</a>, criado para divulgação de Cantigas, Incorporação, Mediunidade, Religião de <a href=' https://www.youtube.com/channel/UCvjsa9RBIztSUkd1JioCjJQ?sub_confirmation=1' rel="nofollown noopener noreferrer" target="_blank">🤍Umbanda</a> e seus mistérios.
+👍 Seja muito bem vindo ao Blog do <a href='https://vovochicopimenta.cyou'>Vovô Chico Pimenta</a>, criado para divulgação de Cantigas, Incorporação, Mediunidade, Religião de <a href='https://vovochicopimenta.cyou/youtube' target="_blank">🤍Umbanda</a> e seus mistérios.
 
 ![Logo](/assets/sobre-post-vovo-chico-pimenta.jpg "Logo")
 
@@ -15,7 +15,7 @@ title: Sobre o Vovô Chico Pimenta
 
 ## 😉 Cursos
 ### Curso de Atabaque - As Batidas do Coração
-<a class="icon -center" href="https://www.vovochicopimenta.cyou/cursodeatabaque" target="_blank" rel="nofollown oopener noreferrer"><img src="/assets/1-atabaque.jpg" width="320" height="82" /></a> 
+<a class="icon -center" href="https://www.vovochicopimenta.cyou/cursodeatabaque" target="_blank" rel="nofollow oopener noreferrer"><img src="/assets/1-atabaque.jpg" width="320" height="82" /></a> 
 
 ### Curso de Formação em Terapia Interativa
-<a class="icon -center" href="https://www.vovochicopimenta.cyou/terapiainterativa" target="_blank" rel="nofollown noopener noreferrer"><img src="/assets/1-terapia_integrativa.jpg" width="320" height="82" /></a>
+<a class="icon -center" href="https://www.vovochicopimenta.cyou/terapiainterativa" target="_blank" rel="nofollow noopener noreferrer"><img src="/assets/1-terapia_integrativa.jpg" width="320" height="82" /></a>
