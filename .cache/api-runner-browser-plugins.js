@@ -17,6 +17,9 @@ module.exports = [{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
       options: {"plugins":[],"name":"Vovo Chico Pimenta","short_name":"VovoChicoPimenta","start_url":"/","background_color":"#ffffff","theme_color":"#5C2A5B","display":"standalone","icon":"static/assets/chico-pimenta-favicon2.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"441fd88911bc6cdf6d060decf7c392df"},
     },{
+      plugin: require('../node_modules/gatsby-plugin-react-helmet-canonical-urls/gatsby-browser.js'),
+      options: {"plugins":[],"siteUrl":"https://vovochicopimenta.cyou","stripQueryString":true},
+    },{
       plugin: require('../node_modules/gatsby-plugin-google-tagmanager/gatsby-browser.js'),
       options: {"plugins":[],"id":"GTM-N44LZW5","includeInDevelopment":false,"defaultDataLayer":{"type":"object","value":{"platform":"gatsby"}},"routeChangeEventName":"gatsby-route-change"},
     },{

@@ -164,14 +164,21 @@ var plugins = [{
     "cacheDigest": "441fd88911bc6cdf6d060decf7c392df"
   }
 }, {
+  plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-react-helmet-canonical-urls/gatsby-ssr */ "./node_modules/gatsby-plugin-react-helmet-canonical-urls/gatsby-ssr.js"),
+  options: {
+    "plugins": [],
+    "siteUrl": "https://vovochicopimenta.cyou",
+    "stripQueryString": true
+  }
+}, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-feed/gatsby-ssr */ "./node_modules/gatsby-plugin-feed/gatsby-ssr.js"),
   options: {
     "plugins": [],
     "query": "\n        {\n          site {\n            siteMetadata {\n              title\n              description\n              siteUrl\n              site_url: siteUrl\n            }\n          }\n        }\n      ",
     "feeds": [{
-      "query": "\n            {\n              allMarkdownRemark(\n                sort: { order: DESC, fields: [frontmatter___date] },\n              ) {\n                edges {\n                  node {\n                    fields {\n                      slug\n                    }\n                    frontmatter {\n                      date\n                      description\n                      title\n                    }\n                    excerpt\n                    html\n                  }\n                }\n              }\n            }\n          ",
+      "query": "\n            {\n              allMarkdownRemark(\n                sort: { order: DESC, fields: [frontmatter___date] },\n              ) {\n                edges {\n                  node {\n                    excerpt\n                    html\n                    fields { slug }\n                    frontmatter {\n                      title\n                      date\n                    }\n                  }\n                }\n              }\n            }\n          ",
       "output": "/blog/rss.xml",
-      "title": "Vovo Chico Pimenta",
+      "title": "Vovo Chico Pimenta RSS Feed",
       "match": "^/blog/",
       "link": "https://feeds.feedburner.com/vovochicopimenta.cyou"
     }]
@@ -10759,6 +10766,80 @@ var removeDuplicates = function removeDuplicates(domainOptions) {
 };
 
 exports.removeDuplicates = removeDuplicates;
+
+/***/ }),
+
+/***/ "./node_modules/gatsby-plugin-react-helmet-canonical-urls/gatsby-ssr.js":
+/*!******************************************************************************!*\
+  !*** ./node_modules/gatsby-plugin-react-helmet-canonical-urls/gatsby-ssr.js ***!
+  \******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+exports.wrapPageElement = __webpack_require__(/*! ./wrap-page */ "./node_modules/gatsby-plugin-react-helmet-canonical-urls/wrap-page.js");
+
+/***/ }),
+
+/***/ "./node_modules/gatsby-plugin-react-helmet-canonical-urls/wrap-page.js":
+/*!*****************************************************************************!*\
+  !*** ./node_modules/gatsby-plugin-react-helmet-canonical-urls/wrap-page.js ***!
+  \*****************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var React = __webpack_require__(/*! react */ "react");
+
+var _require = __webpack_require__(/*! react-helmet */ "react-helmet"),
+    Helmet = _require.Helmet;
+
+var defaultPluginOptions = {
+  noTrailingSlash: false,
+  nopQueryString: false,
+  nopHash: false
+};
+
+var isExcluded = function isExcluded(excludes, element) {
+  if (!Array.isArray(excludes)) return false;
+  element = element.replace(/\/+$/, '');
+  return excludes.some(function (exclude) {
+    if (exclude instanceof RegExp) return element.match(exclude);
+    return exclude.includes(element);
+  });
+};
+
+module.exports = function (_ref, pluginOptions) {
+  var element = _ref.element,
+      location = _ref.props.location;
+
+  if (pluginOptions === void 0) {
+    pluginOptions = {};
+  }
+
+  var options = Object.assign({}, defaultPluginOptions, pluginOptions);
+
+  if (options.siteUrl && !isExcluded(options.exclude, location.pathname)) {
+    var pathname = location.pathname || '/';
+    if (options.noTrailingSlash && pathname.endsWith('/')) pathname = pathname.substring(0, pathname.length - 1);
+    var myUrl = "" + options.siteUrl + pathname;
+    if (!options.noQueryString) myUrl += location.search;
+    if (!options.noHash) myUrl += location.hash;
+    return React.createElement(React.Fragment, null, React.createElement(Helmet, {
+      link: [{
+        rel: 'canonical',
+        key: myUrl,
+        href: myUrl
+      }]
+    }), element);
+  }
+
+  return element;
+};
 
 /***/ }),
 

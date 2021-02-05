@@ -15,7 +15,7 @@ title: Sobre o Vovô Chico Pimenta
 
 ## 😉 Cursos
 ### Curso de Atabaque - As Batidas do Coração
-<a class="icon -center" href="https://www.vovochicopimenta.cyou/cursodeatabaque" target="_blank" rel="nofollow oopener noreferrer"><img src="/assets/1-atabaque.jpg" width="320" height="82" /></a> 
+<a class="icon -center" href="https://www.vovochicopimenta.cyou/cursodeatabaque" target="_blank" rel="nofollow oopener noreferrer"><img src="/assets/1-atabaque.jpg" width="320" height="82" alt="curso de atabaque" /></a> 
 
 ### Curso de Formação em Terapia Interativa
-<a class="icon -center" href="https://www.vovochicopimenta.cyou/terapiainterativa" target="_blank" rel="nofollow noopener noreferrer"><img src="/assets/1-terapia_integrativa.jpg" width="320" height="82" /></a>
+<a class="icon -center" href="https://www.vovochicopimenta.cyou/terapiainterativa" target="_blank" rel="nofollow noopener noreferrer"><img src="/assets/1-terapia_integrativa.jpg" width="320" height="82" alt="formaçao interativa"/></a>

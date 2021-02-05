@@ -140,7 +140,15 @@ module.exports = {
       },
     },
   // Meu Plugins 
-  {
+    {
+      resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+      options: {
+        // Change `siteUrl` to your domain 
+        siteUrl: `https://vovochicopimenta.cyou`,
+        stripQueryString: true,
+      },
+    },
+    {
     resolve: `gatsby-plugin-feed`,
     options: {
       query: `
@@ -187,30 +195,8 @@ module.exports = {
               }
             }
           `,
-          query: `
-            {
-              allMarkdownRemark(
-                sort: { order: DESC, fields: [frontmatter___date] },
-              ) {
-                edges {
-                  node {
-                    fields {
-                      slug
-                    }
-                    frontmatter {
-                      date
-                      description
-                      title
-                    }
-                    excerpt
-                    html
-                  }
-                }
-              }
-            }
-          `,
           output: '/blog/rss.xml',
-          title: 'Vovo Chico Pimenta',
+          title: 'Vovo Chico Pimenta RSS Feed',
           // Configurações opcionais
           // Esse cara serve para você colocar onde você quer que o feed se alimente. Por exemplo, você tem um site pessoal e tem um blog dentro dele com a url www.meusiteboladao.com/blog/
           // Aí você vai colocar o ^/blog/ nessa chave
