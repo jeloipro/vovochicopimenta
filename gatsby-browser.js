@@ -8,3 +8,6 @@ export const onServiceWorkerUpdateReady = () => {
     window.location.reload()
   }
 }
+// Adicionado Bootstrap
+// import 'bootstrap/dist/css/bootstrap.min.css'
+// npm uninstall --save bootstrap 
