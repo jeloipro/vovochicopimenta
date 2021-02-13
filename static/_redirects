@@ -1,6 +1,8 @@
 # Redirects com links camuflado
 /cursodeatabaque/*    https://go.hotmart.com/F45176304M:splat 200
 /terapiainterativa/*  https://go.hotmart.com/M45176163U:splat 200
+/social/*             https://conecta.bio/vovochicopimenta:splat 200
+
 # Redirects somente para página
 /instagram/*          https://www.instagram.com/vovochicopimenta
 /facebook/*           https://www.facebook.com/vovochicopimenta
